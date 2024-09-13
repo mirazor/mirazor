@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hello there! I'm Igor</h1>
 
 I'm a Web Developer
-<img src="[https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://github.com/user-attachments/assets/105cb8b7-63ff-4451-a568-801e2d3ee836)" alt="Gif" align="right" width="200">
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb](https://github.com/user-attachments/assets/105cb8b7-63ff-4451-a568-801e2d3ee836" alt="Gif" align="right" width="200">
 
 <h2 align="left">💻 Tech stack</h2>
 
