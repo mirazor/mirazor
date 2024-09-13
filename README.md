@@ -3,7 +3,7 @@
 I'm a Web Developer
 <img src="https://github.com/user-attachments/assets/6dc2f63f-215a-449b-8bed-2c1940d01c95" alt="Gif" align="right" width="200">
 
-
+<div class="body">
 <h2 align="left">💻 Tech stack</h2>
 
 ## Frontend:
@@ -37,3 +37,5 @@ I'm a Web Developer
 ## OS:
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+</div>
