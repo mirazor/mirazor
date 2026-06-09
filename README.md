@@ -16,6 +16,7 @@ I'm a Web Developer
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Yii](https://img.shields.io/badge/yii-%23ED1C24.svg?style=for-the-badge&logo=yii&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -29,6 +30,7 @@ I'm a Web Developer
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Linux Terminal](https://img.shields.io/badge/Linux%20Terminal-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 ### OS:
